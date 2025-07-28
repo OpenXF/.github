@@ -7,7 +7,7 @@
 - Системное программирование (системные вызовы, память, процессы)  
 - Архитектура [CPU](https://openxf.org/CPU/CPU), [ALU](https://openxf.org/CPU/ALU), [MMU](https://openxf.org/CPU/MMU), [кеши](https://openxf.org/CPU/Cache), [шины](https://openxf.org/busses/busses)  
 - Низкоуровневое программирование (ассемблер, стек, загрузчики)  
-- [Операционные](https://openxf.org/os/) системы и [виртуализация](https://openxf.org/virt/)  
+- [Операционные системы](https://openxf.org/os/) и [виртуализация](https://openxf.org/virt/)  
 - Сетевые технологии: [eBPF](https://openxf.org/network/eBPF/eBPF), [XDP](https://openxf.org/network/eBPF/XDP), сокеты, [TCP/IP](https://openxf.org/network/protocols/TCPIP)  
 - Алгоритмы и логика (булева алгебра, FSM, адресация)  
 - [Файловые системы](https://openxf.org/os/fs/fs): FAT, ext, GPT, BIOS/UEFI  
